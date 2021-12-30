@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mimi-87
 - 👀 I’m interested in all things cloud!
-- 🌱 I’m currently learning the basics of Cloud Engineering.
+- 🌱 I’m currently learning the basics of Python and Cloud Engineering.
 - 💞️ I’m looking to collaborate on anything that will help me further my career.
 - 📫 How to reach me is through email( asteele6006@gmail.com).
 
